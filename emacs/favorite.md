@@ -1,0 +1,1 @@
+This text editor was the least frustrating. I found them all hard and time consuming. Vi was by far the hardest for me to wrap my head around. Nano is somehere in between for me.
