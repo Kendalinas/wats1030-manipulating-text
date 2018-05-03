@@ -2,7 +2,7 @@ THE MACHINE STOPS
 
 by E.M. Forster (1909)
 
-I
+
 THE AIR-SHIP
 
 Imagine, if you can, a small room, hexagonal in shape, like the cell of a bee. It is lighted neither by window nor by lamp, yet it is filled with a soft radiance. There are no apertures for ventilation, yet the air is fresh. There are no musical instruments, and yet, at the moment that my meditation opens, this room is throbbing with melodious sounds. An armchair is in the centre, by its side a reading-desk-that is all the furniture. And in the armchair there sits a swaddled lump of flesh-a woman, about five feet high, with a face as white as a fungus. It is to her that the little room belongs.
@@ -17,15 +17,15 @@ The woman touched a switch and the music was silent.
 
 But when she listened into the receiver, her white face wrinkled into smiles, and she said:
 
-"Very well. Let us talk, I will isolate myself. I do not expect anything important will happen for the next five minutes-for I can give you fully five minutes, Kuno. Then I must deliver my lecture on “Music during the Australian Period”."
+"Very well. Let us talk, I will isolate myself. I do not expect anything important will happen for the next five minutes-for I can give you fully five minutes, . Then I must deliver my lecture on “Music during the Australian Period”."
 
 She touched the isolation knob, so that no one else could speak to her. Then she touched the lighting apparatus, and the little room was plunged into darkness.
 
-"Be quick!" She called, her irritation returning. "Be quick, Kuno; here I am in the dark wasting my time."
+"Be quick!" She called, her irritation returning. "Be quick, ; here I am in the dark wasting my time."
 
 But it was fully fifteen seconds before the round plate that she held in her hands began to glow. A faint blue light shot across it, darkening to purple, and presently she could see the image of her son, who lived on the other side of the earth, and he could see her.
 
-"Kuno, how slow you are."
+", how slow you are."
 
 He smiled gravely.
 
@@ -117,7 +117,7 @@ She considered, and chose her words with care. Her son had a queer temper, and s
 
 His image is the blue plate faded.
 
-"Kuno!"
+"!"
 
 He had isolated himself.
 
@@ -131,7 +131,7 @@ To most of these questions she replied with irritation - a growing quality in th
 
 The clumsy system of public gatherings had been long since abandoned; neither Vashti nor her audience stirred from their rooms. Seated in her armchair she spoke, while they in their armchairs heard her, fairly well, and saw her, fairly well. She opened with a humorous account of music in the pre Mongolian epoch, and went on to describe the great outburst of song that followed the Chinese conquest. Remote and primæval as were the methods of I-San-So and the Brisbane school, she yet felt (she said) that study of them might repay the musicians of today: they had freshness; they had, above all, ideas. Her lecture, which lasted ten minutes, was well received, and at its conclusion she and many of her audience listened to a lecture on the sea; there were ideas to be got from the sea; the speaker had donned a respirator and visited it lately. Then she fed, talked to many friends, had a bath, talked again, and summoned her bed.
 
-The bed was not to her liking. It was too large, and she had a feeling for a small bed. Complaint was useless, for beds were of the same dimension all over the world, and to have had an alternative size would have involved vast alterations in the Machine. Vashti isolated herself-it was necessary, for neither day nor night existed under the ground-and reviewed all that had happened since she had summoned the bed last. Ideas? Scarcely any. Events-was Kuno"s invitation an event?
+The bed was not to her liking. It was too large, and she had a feeling for a small bed. Complaint was useless, for beds were of the same dimension all over the world, and to have had an alternative size would have involved vast alterations in the Machine. Vashti isolated herself-it was necessary, for neither day nor night existed under the ground-and reviewed all that had happened since she had summoned the bed last. Ideas? Scarcely any. Events-was "s invitation an event?
 
 By her side, on the little reading-desk, was a survival from the ages of litter-one book. This was the Book of the Machine. In it were instructions against every possible contingency. If she was hot or cold or dyspeptic or at a loss for a word, she went to the book, and it told her which button to press. The Central Committee published it. In accordance with a growing habit, it was richly bound.
 
@@ -141,7 +141,7 @@ She thought, "I have not the time."
 
 She made the room dark and slept; she awoke and made the room light; she ate and exchanged ideas with her friends, and listened to music and attended lectures; she make the room dark and slept. Above her, beneath her, and around her, the Machine hummed eternally; she did not notice the noise, for she had been born with it in her ears. The earth, carrying her, hummed as it sped through silence, turning her now to the invisible sun, now to the invisible stars. She awoke and made the room light.
 
-"Kuno!"
+"!"
 
 "I will not talk to you." he answered, "until you come."
 
@@ -153,11 +153,11 @@ Again she consulted the book. She became very nervous and lay back in her chair 
 
 Of course she knew all about the communication-system. There was nothing mysterious in it. She would summon a car and it would fly with her down the tunnel until it reached the lift that communicated with the air-ship station: the system had been in use for many, many years, long before the universal establishment of the Machine. And of course she had studied the civilization that had immediately preceded her own - the civilization that had mistaken the functions of the system, and had used it for bringing people to things, instead of for bringing things to people. Those funny old days, when men went for change of air instead of changing the air in their rooms! And yet-she was frightened of the tunnel: she had not seen it since her last child was born. It curved-but not quite as she remembered; it was brilliant-but not quite as brilliant as a lecturer had suggested. Vashti was seized with the terrors of direct experience. She shrank back into the room, and the wall closed up again.
 
-"Kuno," she said, "I cannot come to see you. I am not well."
+"," she said, "I cannot come to see you. I am not well."
 
-Immediately an enormous apparatus fell on to her out of the ceiling, a thermometer was automatically laid upon her heart. She lay powerless. Cool pads soothed her forehead. Kuno had telegraphed to her doctor.
+Immediately an enormous apparatus fell on to her out of the ceiling, a thermometer was automatically laid upon her heart. She lay powerless. Cool pads soothed her forehead.  had telegraphed to her doctor.
 
-So the human passions still blundered up and down in the Machine. Vashti drank the medicine that the doctor projected into her mouth, and the machinery retired into the ceiling. The voice of Kuno was heard asking how she felt.
+So the human passions still blundered up and down in the Machine. Vashti drank the medicine that the doctor projected into her mouth, and the machinery retired into the ceiling. The voice of  was heard asking how she felt.
 
 "Better." Then with irritation: "But why do you not come to me instead?"
 
@@ -177,7 +177,7 @@ So the human passions still blundered up and down in the Machine. Vashti drank t
 
 She resumed her life.
 
-But she thought of Kuno as a baby, his birth, his removal to the public nurseries, her own visit to him there, his visits to her-visits which stopped when the Machine had assigned him a room on the other side of the earth. "Parents, duties of," said the book of the Machine," cease at the moment of birth. P.422327483." True, but there was something special about Kuno - indeed there had been something special about all her children - and, after all, she must brave the journey if he desired it. And "something tremendous might happen". What did that mean? The nonsense of a youthful man, no doubt, but she must go. Again she pressed the unfamiliar button, again the wall swung back, and she saw the tunnel that curves out of sight. Clasping the Book, she rose, tottered on to the platform, and summoned the car. Her room closed behind her: the journey to the northern hemisphere had begun.
+But she thought of  as a baby, his birth, his removal to the public nurseries, her own visit to him there, his visits to her-visits which stopped when the Machine had assigned him a room on the other side of the earth. "Parents, duties of," said the book of the Machine," cease at the moment of birth. P.422327483." True, but there was something special about  - indeed there had been something special about all her children - and, after all, she must brave the journey if he desired it. And "something tremendous might happen". What did that mean? The nonsense of a youthful man, no doubt, but she must go. Again she pressed the unfamiliar button, again the wall swung back, and she saw the tunnel that curves out of sight. Clasping the Book, she rose, tottered on to the platform, and summoned the car. Her room closed behind her: the journey to the northern hemisphere had begun.
 
 Of course it was perfectly easy. The car approached and in it she found armchairs exactly like her own. When she signaled, it stopped, and she tottered into the lift. One other passenger was in the lift, the first fellow creature she had seen face to face for months. Few travelled in these days, for, thanks to the advance of science, the earth was exactly alike all over. Rapid intercourse, from which the previous civilization had hoped so much, had ended by defeating itself. What was the good of going to Peking when it was just like Shrewsbury? Why return to Shrewsbury when it would all be like Peking? Men seldom moved their bodies; all unrest was concentrated in the soul.
 
@@ -247,7 +247,7 @@ The day dragged wearily forward. The passengers sat each in his cabin, avoiding 
 
 At midday she took a second glance at the earth. The air- ship was crossing another range of mountains, but she could see little, owing to clouds. Masses of black rock hovered below her, and merged indistinctly into grey. Their shapes were fantastic; one of them resembled a prostrate man.
 
-"No ideas here," murmured Vishta, and hid the Caucasus behind a metal blind.
+"No ideas here," murmured , and hid the Caucasus behind a metal blind.
 
 In the evening she looked again. They were crossing a golden sea, in which lay many small islands and one peninsula. She repeated, "No ideas here," and hid Greece behind a metal blind.
 
@@ -256,13 +256,13 @@ In the evening she looked again. They were crossing a golden sea, in which lay m
 II
 THE MENDING APPARATUS
 
-By a vestibule, by a lift, by a tubular railway, by a platform, by a sliding door - by reversing all the steps of her departure did Vashti arrive at her son"s room, which exactly resembled her own. She might well declare that the visit was superfluous. The buttons, the knobs, the reading-desk with the Book, the temperature, the atmosphere, the illumination - all were exactly the same. And if Kuno himself, flesh of her flesh, stood close beside her at last, what profit was there in that? She was too well-bred to shake him by the hand.
+By a vestibule, by a lift, by a tubular railway, by a platform, by a sliding door - by reversing all the steps of her departure did Vashti arrive at her son"s room, which exactly resembled her own. She might well declare that the visit was superfluous. The buttons, the knobs, the reading-desk with the Book, the temperature, the atmosphere, the illumination - all were exactly the same. And if  himself, flesh of her flesh, stood close beside her at last, what profit was there in that? She was too well-bred to shake him by the hand.
 
 Averting her eyes, she spoke as follows:
 
-"Here I am. I have had the most terrible journey and greatly retarded the development of my soul. It is not worth it, Kuno, it is not worth it. My time is too precious. The sunlight almost touched me, and I have met with the rudest people. I can only stop a few minutes. Say what you want to say, and then I must return."
+"Here I am. I have had the most terrible journey and greatly retarded the development of my soul. It is not worth it, , it is not worth it. My time is too precious. The sunlight almost touched me, and I have met with the rudest people. I can only stop a few minutes. Say what you want to say, and then I must return."
 
-"I have been threatened with Homelessness," said Kuno.
+"I have been threatened with Homelessness," said .
 
 She looked at him now.
 
@@ -300,7 +300,7 @@ At this she grew angry. "I worship nothing!" she cried. "I am most advanced. I d
 
 "Well, the Book"s wrong, for I have been out on my feet."
 
-For Kuno was possessed of a certain physical strength.
+For  was possessed of a certain physical strength.
 
 By these days it was a demerit to be muscular. Each infant was examined at birth, and all who promised undue strength were destroyed. Humanitarians may protest, but it would have been no true kindness to let an athlete live; he would never have been happy in that state of life to which the Machine had called him; he would have yearned for trees to climb, rivers to bathe in, meadows and hills against which he might measure his body. Man must be adapted to his surroundings, must he not? In the dawn of the world our weakly must be exposed on Mount Taygetus, in its twilight our strong will suffer euthanasia, that the Machine may progress, that the Machine may progress, that the Machine may progress eternally.
 
@@ -314,7 +314,7 @@ By these days it was a demerit to be muscular. Each infant was examined at birth
 
 He paused, and, absurd as he was, his last words moved her.
 
-For Kuno had lately asked to be a father, and his request had been refused by the Committee. His was not a type that the Machine desired to hand on.
+For  had lately asked to be a father, and his request had been refused by the Committee. His was not a type that the Machine desired to hand on.
 
 "Then a train passed. It brushed by me, but I thrust my head and arms into the hole. I had done enough for one day, so I crawled back to the platform, went down in the lift, and summoned my bed. Ah what dreams! And again I called you, and again you refused."
 
@@ -398,7 +398,7 @@ Here his story ended. Discussion of it was impossible, and Vashti turned to go.
 
 "It will end in Homelessness," she said quietly.
 
-"I wish it would," retorted Kuno.
+"I wish it would," retorted .
 
 "The Machine has been most merciful."
 
@@ -444,7 +444,7 @@ III
 THE HOMELESS
 
 
-During the years that followed Kuno"s escapade, two important developments took place in the Machine. On the surface they were revolutionary, but in either case men"s minds had been prepared beforehand, and they did but express tendencies that were latent already.
+During the years that followed "s escapade, two important developments took place in the Machine. On the surface they were revolutionary, but in either case men"s minds had been prepared beforehand, and they did but express tendencies that were latent already.
 
 The first of these was the abolition of respirator.
 
@@ -464,7 +464,7 @@ The second great development was the re-establishment of religion.
 
 This, too, had been voiced in the celebrated lecture. No one could mistake the reverent tone in which the peroration had concluded, and it awakened a responsive echo in the heart of each. Those who had long worshipped silently, now began to talk. They described the strange feeling of peace that came over them when they handled the Book of the Machine, the pleasure that it was to repeat certain numerals out of it, however little meaning those numerals conveyed to the outward ear, the ecstasy of touching a button, however unimportant, or of ringing an electric bell, however superfluously.
 
-"The Machine," they exclaimed, "feeds us and clothes us and houses us; through it we speak to one another, through it we see one another, in it we have our being. The Machine is the friend of ideas and the enemy of superstition: the Machine is omnipotent, eternal; blessed is the Machine." And before long this allocution was printed on the first page of the Book, and in subsequent editions the ritual swelled into a complicated system of praise and prayer. The word "religion" was sedulously avoided, and in theory the Machine was still the creation and the implement of man. but in practice all, save a few retrogrades, worshipped it as divine. Nor was it worshipped in unity. One believer would be chiefly impressed by the blue optic plates, through which he saw other believers; another by the mending apparatus, which sinful Kuno had compared to worms; another by the lifts, another by the Book. And each would pray to this or to that, and ask it to intercede for him with the Machine as a whole. Persecution - that also was present. It did not break out, for reasons that will be set forward shortly. But it was latent, and all who did not accept the minimum known as "undenominational Mechanism" lived in danger of Homelessness, which means death, as we know.
+"The Machine," they exclaimed, "feeds us and clothes us and houses us; through it we speak to one another, through it we see one another, in it we have our being. The Machine is the friend of ideas and the enemy of superstition: the Machine is omnipotent, eternal; blessed is the Machine." And before long this allocution was printed on the first page of the Book, and in subsequent editions the ritual swelled into a complicated system of praise and prayer. The word "religion" was sedulously avoided, and in theory the Machine was still the creation and the implement of man. but in practice all, save a few retrogrades, worshipped it as divine. Nor was it worshipped in unity. One believer would be chiefly impressed by the blue optic plates, through which he saw other believers; another by the mending apparatus, which sinful  had compared to worms; another by the lifts, another by the Book. And each would pray to this or to that, and ask it to intercede for him with the Machine as a whole. Persecution - that also was present. It did not break out, for reasons that will be set forward shortly. But it was latent, and all who did not accept the minimum known as "undenominational Mechanism" lived in danger of Homelessness, which means death, as we know.
 
 To attribute these two great developments to the Central Committee, is to take a very narrow view of civilization. The Central Committee announced the developments, it is true, but they were no more the cause of them than were the kings of the imperialistic period the cause of war. Rather did they yield to some invincible pressure, which came no one knew whither, and which, when gratified, was succeeded by some new pressure equally invincible. To such a state of affairs it is convenient to give the name of progress. No one confessed the Machine was out of hand. Year by year it was served with increased efficiency and decreased intelligence. The better a man knew his own duties upon it, the less he understood the duties of his neighbour, and in all the world there was not one who understood the monster as a whole. Those master brains had perished. They had left full directions, it is true, and their successors had each of them mastered a portion of those directions. But Humanity, in its desire for comfort, had over-reached itself. It had exploited the riches of nature too far. Quietly and complacently, it was sinking into decadence, and progress had come to mean the progress of the Machine.
 
@@ -502,7 +502,7 @@ She burst into a peal of laughter. He heard her and was angry, and they spoke no
 
 "Yes, and they say it wants mending, and referred me to the Committee of the Mending Apparatus. I complained of those curious gasping sighs that disfigure the symphonies of the Brisbane school. They sound like some one in pain. The Committee of the Mending Apparatus say that it shall be remedied shortly."
 
-Obscurely worried, she resumed her life. For one thing, the defect in the music irritated her. For another thing, she could not forget Kuno"s speech. If he had known that the music was out of repair - he could not know it, for he detested music - if he had known that it was wrong, "the Machine stops" was exactly the venomous sort of remark he would have made. Of course he had made it at a venture, but the coincidence annoyed her, and she spoke with some petulance to the Committee of the Mending Apparatus.
+Obscurely worried, she resumed her life. For one thing, the defect in the music irritated her. For another thing, she could not forget "s speech. If he had known that the music was out of repair - he could not know it, for he detested music - if he had known that it was wrong, "the Machine stops" was exactly the venomous sort of remark he would have made. Of course he had made it at a venture, but the coincidence annoyed her, and she spoke with some petulance to the Committee of the Mending Apparatus.
 
 They replied, as before, that the defect would be set right shortly.
 
@@ -558,7 +558,7 @@ Thousands of miles away his audience applauded. The Machine still linked them. U
 
 It became difficult to read. A blight entered the atmosphere and dulled its luminosity. At times Vashti could scarcely see across her room. The air, too, was foul. Loud were the complaints, impotent the remedies, heroic the tone of the lecturer as he cried: "Courage! courage! What matter so long as the Machine goes on ? To it the darkness and the light are one." And though things improved again after a time, the old brilliancy was never recaptured, and humanity never recovered from its entrance into twilight. There was an hysterical talk of "measures," of "provisional dictatorship," and the inhabitants of Sumatra were asked to familiarize themselves with the workings of the central power station, the said power station being situated in France. But for the most part panic reigned, and men spent their strength praying to their Books, tangible proofs of the Machine"s omnipotence. There were gradations of terror- at times came rumours of hope-the Mending Apparatus was almost mended-the enemies of the Machine had been got under- new "nerve-centres" were evolving which would do the work even more magnificently than before. But there came a day when, without the slightest warning, without any previous hint of feebleness, the entire communication-system broke down, all over the world, and the world, as they understood it, ended.
 
-Vashti was lecturing at the time and her earlier remarks had been punctuated with applause. As she proceeded the audience became silent, and at the conclusion there was no sound. Somewhat displeased, she called to a friend who was a specialist in sympathy. No sound: doubtless the friend was sleeping. And so with the next friend whom she tried to summon, and so with the next, until she remembered Kuno"s cryptic remark, "The Machine stops".
+Vashti was lecturing at the time and her earlier remarks had been punctuated with applause. As she proceeded the audience became silent, and at the conclusion there was no sound. Somewhat displeased, she called to a friend who was a specialist in sympathy. No sound: doubtless the friend was sleeping. And so with the next friend whom she tried to summon, and so with the next, until she remembered "s cryptic remark, "The Machine stops".
 
 The phrase still conveyed nothing. If Eternity was stopping it would of course be set going shortly.
 
@@ -588,7 +588,7 @@ They wept for humanity, those two, not for themselves. They could not bear that 
 
 His voice in the darkness said, "Here."
 
-Is there any hope, Kuno?"
+Is there any hope, ?"
 
 "None for us."
 
@@ -602,7 +602,7 @@ He kissed her.
 
 "We have come back to our own. We die, but we have recaptured life, as it was in Wessex, when Ælfrid overthrew the Danes. We know what they know outside, they who dwelt in the cloud that is the colour of a pearl."
 
-"But Kuno, is it true ? Are there still men on the surface of the earth ? Is this - tunnel, this poisoned darkness - really not the end?"
+"But , is it true ? Are there still men on the surface of the earth ? Is this - tunnel, this poisoned darkness - really not the end?"
 
 He replied:
 
@@ -610,7 +610,7 @@ He replied:
 
 "Oh, tomorrow - some fool will start the Machine again, tomorrow."
 
-"Never," said Kuno, "never. Humanity has learnt its lesson."
+"Never," said , "never. Humanity has learnt its lesson."
 
 As he spoke, the whole city was broken like a honeycomb. An air-ship had sailed in through the vomitory into a ruined wharf. It crashed downwards, exploding as it went, rending gallery after gallery with its wings of steel. For a moment they saw the nations of the dead, and, before they joined them, scraps of the untainted sky.
 
